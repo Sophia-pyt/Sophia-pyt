@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sophia-pyt
-- 👀 I’m interested in web creation and others
+- 👋 Hi, I’m @sophia-analyst.
+- 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web and app development
+- 💞️ I’m looking to collaborate on working on big files and good visualization 
 - 📫 How to reach me sophiaalabi37@gmail.com
 
 <!---
